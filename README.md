@@ -1,5 +1,6 @@
 # MijnUnityProject
 
+opdracht voor skill
 
 ![demo](images/skillles.gif)
 Script: [turn.cs](Assets/Scripts/turn.cs)
