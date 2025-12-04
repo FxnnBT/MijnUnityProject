@@ -7,5 +7,8 @@ bewegend object
 
 
 [log](Assets/Scripts/log.cs)
+debug log testen
 
 
+[click](Assets/Scripts/click.cs)
+click testen
